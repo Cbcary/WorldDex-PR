@@ -21,7 +21,7 @@ log = logging.getLogger("ballsdex.packages.gaPacks")
 
 class gaPacks(commands.Cog):
     """
-    Simple vote commands.
+    Simple vote and rarity commands.
     """
 
     TIER_NA = "Tier: N/A"
